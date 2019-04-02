@@ -1,0 +1,6 @@
+ID : 2981265
+Name : François Gayraud
+
+mysql database is "drupal" and the user is "drupal" without a password
+
+The admin account on the website is "francois" with "r?2/r8sE"
